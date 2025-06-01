@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+spacy
+httpx  # Required for API testing
+pytest  # Unit testing
+matplotlib  # For plotting
+seaborn  # For enhanced plotting
