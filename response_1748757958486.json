@@ -1,0 +1,6 @@
+{
+  "input_email_body": "string",
+  "list_of_masked_entities": [],
+  "masked_email": "string",
+  "category_of_the_email": "Incident"
+}
